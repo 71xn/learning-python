@@ -24,5 +24,3 @@ mySock.close()
 
 # Encoding -> Most Webpages and sites use UTF-8 Encoding -> 1-4 bytes, compatible with
 # ASCII (American Standard Code for Information Interchange)
-
-
